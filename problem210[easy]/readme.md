@@ -15,9 +15,11 @@ the last 2 bits are not the same. They are different.
 Therefore 1 and 2 have 6 out of 8 match points. For a compatibility score of 75%
 The most compatible numbers will be the same number as all the bits match perfectly. (We are all most compatible with ourselves the most)
 So taking 1 in binary (0000 0001) the complete opposite number would have to be (1111 1110) or 254. 1 and 254 should not be in the same data structure together ever.
+
 Input:
 
  2 unsigned Integers x and y
+
 Output
 
  % of compatibility
